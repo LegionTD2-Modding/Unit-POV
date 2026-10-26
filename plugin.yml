@@ -1,0 +1,9 @@
+id: kidev.unit-pov
+name: Unit view
+version: 0.3.0
+author: kidev
+description: See the game through the eyes of any unit.
+proleak: ">=0.1"
+entry: main.py
+update:
+  github: LegionTD2-Modding/unit-pov

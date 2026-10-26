@@ -1,0 +1,7 @@
+# Only the plugin itself is published: its code, manifest, licence and readme.
+*
+!.gitignore
+!*.py
+!plugin.yml
+!LICENSE
+!README.md
